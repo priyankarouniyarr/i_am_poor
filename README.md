@@ -1,6 +1,6 @@
 # I Am Poor
 
-A new Flutter project.
+A  first flutter new Flutter project. 
 
 ## Getting Started
 
